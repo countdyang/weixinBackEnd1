@@ -11,7 +11,7 @@ public class DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		for(int i= 1;i<101;i++){
+		for(int i= 1;i<103;i++){
 			System.out.print(i+",");
 		}
 	}
